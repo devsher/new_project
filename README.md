@@ -15,3 +15,7 @@ sentence = "HELLO, WORLD!"
 converted_sentence = convert_to_lowercase(sentence)
 print(converted_sentence)
 대문자를 소문자로
+
+
+
+
