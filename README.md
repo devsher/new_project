@@ -15,7 +15,7 @@ sentence = "HELLO, WORLD!"
 converted_sentence = convert_to_lowercase(sentence)
 print(converted_sentence)
 대문자를 소문자로
-
+중심 생각 찾는 거 하고 chatgpt 연결 법을 배워야 한다
 
 
 
